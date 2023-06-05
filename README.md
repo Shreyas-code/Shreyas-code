@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Shreyas-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Shreyas-code/Shreyas-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Shreyas 
+- 👀 I’m interested in building projects using various technologies and try to update myself with new advancement 
+- 🌱 I’m currently learning C# and have worked in C# MVC project
