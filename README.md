@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shreyas 
 - 👀 I’m interested in building projects using various technologies and try to update myself with new advancement 
-- 🌱 I’m currently learning C# and have worked in C# MVC project
+- 🌱 I’m currently I am working with C# and SQL
